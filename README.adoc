@@ -38,7 +38,7 @@ Alguns conceitos relacionados a testes de software são mostrados nas apresenta�
 - https://docs.google.com/presentation/d/e/2PACX-1vQwATi-XTUnQcXi1S2Q6p_O37gQ68D7z0hDzQBSnrIc1WVPmJNoR3lmddY47KFLDpk9iAQoizaVdFOR/pub?start=true&loop=false&delayms=60000[Continuous Integration e Continuous Deployment (CI/CD)]: fundamentos de Integração Contínua e Implantação Contínua. https://youtu.be/wA1RbmK-QRA[Vídeo-aula disponível aqui].
 
 
-[IMPORTANT]
+[IMPORTANT].
 ====
 O relatório de cobertura de código do JaCoCo **NÃO é gerado** se existir algum espaço em qualquer lugar no caminho completo da pasta onde você salvou o projeto. Por exemplo, se o projeto estiver em: 
 
